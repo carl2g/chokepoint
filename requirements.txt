@@ -1,0 +1,10 @@
+pymrio
+pandas
+numpy
+requests
+yfinance
+django
+django-polymorphic
+forex-python
+edgartools
+matplotlib

@@ -1,0 +1,445 @@
+SIC Code,Exiobase mapping,Industry Title
+100,Crops nec,AGRICULTURAL PRODUCTION-CROPS
+200,Cattle,AGRICULTURAL PROD-LIVESTOCK & ANIMAL SPECIALTIES
+700,Crops nec,AGRICULTURAL SERVICES
+800,"Products of forestry, logging and related services (02)",FORESTRY
+900,Fish and other fishing products; services incidental of fishing (05),"FISHING, HUNTING AND TRAPPING"
+1000,Iron ores,METAL MINING
+1040,Precious metal ores and concentrates,GOLD AND SILVER ORES
+1090,Other non-ferrous metal ores and concentrates,MISCELLANEOUS METAL ORES
+1220,Other Bituminous Coal,BITUMINOUS COAL & LIGNITE MINING
+1221,Other Bituminous Coal,BITUMINOUS COAL & LIGNITE SURFACE MINING
+1311,"Crude petroleum and services related to crude oil extraction, excluding surveying",CRUDE PETROLEUM & NATURAL GAS
+1381,"Crude petroleum and services related to crude oil extraction, excluding surveying",DRILLING OIL & GAS WELLS
+1382,"Crude petroleum and services related to crude oil extraction, excluding surveying",OIL & GAS FIELD EXPLORATION SERVICES
+1389,"Crude petroleum and services related to crude oil extraction, excluding surveying","OIL & GAS FIELD SERVICES, NEC"
+1400,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",MINING & QUARRYING OF NONMETALLIC MINERALS (NO FUELS)
+1520,Construction work (45),GENERAL BLDG CONTRACTORS - RESIDENTIAL BLDGS
+1531,Construction work (45),OPERATIVE BUILDERS
+1540,Construction work (45),GENERAL BLDG CONTRACTORS - NONRESIDENTIAL BLDGS
+1600,Construction work (45),HEAVY CONSTRUCTION OTHER THAN BLDG CONST - CONTRACTORS
+1623,Construction work (45),"WATER, SEWER, PIPELINE, COMM & POWER LINE CONSTRUCTION"
+1700,Construction work (45),CONSTRUCTION - SPECIAL TRADE CONTRACTORS
+1731,Construction work (45),ELECTRICAL WORK
+2000,Food products nec,FOOD AND KINDRED PRODUCTS
+2011,Products of meat cattle,MEAT PACKING PLANTS
+2013,Meat products nec,SAUSAGES & OTHER PREPARED MEAT PRODUCTS
+2015,Products of meat poultry,POULTRY SLAUGHTERING AND PROCESSING
+2020,Dairy products,DAIRY PRODUCTS
+2024,Dairy products,ICE CREAM & FROZEN DESSERTS
+2030,Food products nec,"CANNED, FROZEN & PRESERVD FRUIT, VEG & FOOD SPECIALTIES"
+2033,Food products nec,"CANNED, FRUITS, VEG, PRESERVES, JAMS & JELLIES"
+2040,Food products nec,GRAIN MILL PRODUCTS
+2050,Food products nec,BAKERY PRODUCTS
+2052,Food products nec,COOKIES & CRACKERS
+2060,Sugar,SUGAR & CONFECTIONERY PRODUCTS
+2070,products of Vegetable oils and fats,FATS & OILS
+2080,Beverages,BEVERAGES
+2082,Beverages,MALT BEVERAGES
+2086,Beverages,BOTTLED & CANNED SOFT DRINKS & CARBONATED WATERS
+2090,Food products nec,MISCELLANEOUS FOOD PREPARATIONS & KINDRED PRODUCTS
+2092,Fish products,PREPARED FRESH OR FROZEN FISH & SEAFOODS
+2100,Tobacco products (16),TOBACCO PRODUCTS
+2111,Tobacco products (16),CIGARETTES
+2200,Textiles (17),TEXTILE MILL PRODUCTS
+2211,Textiles (17),"BROADWOVEN FABRIC MILLS, COTTON"
+2221,Textiles (17),"BROADWOVEN FABRIC MILLS, MAN MADE FIBER & SILK"
+2250,Textiles (17),KNITTING MILLS
+2253,Wearing apparel; furs (18),KNIT OUTERWEAR MILLS
+2273,Textiles (17),CARPETS & RUGS
+2300,Wearing apparel; furs (18),APPAREL & OTHER FINISHD PRODS OF FABRICS & SIMILAR MATL
+2320,Wearing apparel; furs (18),"MEN'S & BOYS' FURNISHGS, WORK CLOTHG, & ALLIED GARMENTS"
+2330,Wearing apparel; furs (18),"WOMEN'S, MISSES', AND JUNIORS OUTERWEAR"
+2340,Wearing apparel; furs (18),"WOMEN'S, MISSES', CHILDREN'S & INFANTS' UNDERGARMENTS"
+2390,Textiles (17),MISCELLANEOUS FABRICATED TEXTILE PRODUCTS
+2400,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),LUMBER & WOOD PRODUCTS (NO FURNITURE)
+2421,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),"SAWMILLS & PLANTING MILLS, GENERAL"
+2430,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),"MILLWOOD, VENEER, PLYWOOD, & STRUCTURAL WOOD MEMBERS"
+2451,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),MOBILE HOMES
+2452,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),PREFABRICATED WOOD BLDGS & COMPONENTS
+2510,Furniture; other manufactured goods n.e.c. (36),HOUSEHOLD FURNITURE
+2511,Furniture; other manufactured goods n.e.c. (36),"WOOD HOUSEHOLD FURNITURE, (NO UPHOLSTERED)"
+2520,Furniture; other manufactured goods n.e.c. (36),OFFICE FURNITURE
+2522,Furniture; other manufactured goods n.e.c. (36),OFFICE FURNITURE (NO WOOD)
+2531,Furniture; other manufactured goods n.e.c. (36),PUBLIC BLDG & RELATED FURNITURE
+2540,Furniture; other manufactured goods n.e.c. (36),"PARTITIONS, SHELVG, LOCKERS, & OFFICE & STORE FIXTURES"
+2590,Furniture; other manufactured goods n.e.c. (36),MISCELLANEOUS FURNITURE & FIXTURES
+2600,Paper and paper products,PAPERS & ALLIED PRODUCTS
+2611,Pulp,PULP MILLS
+2621,Paper and paper products,PAPER MILLS
+2631,Paper and paper products,PAPERBOARD MILLS
+2650,Paper and paper products,PAPERBOARD CONTAINERS & BOXES
+2670,Paper and paper products,CONVERTED PAPER & PAPERBOARD PRODS (NO CONTANERS/BOXES)
+2673,Paper and paper products,"PLASTICS, FOIL & COATED PAPER BAGS"
+2711,Printed matter and recorded media (22),NEWSPAPERS: PUBLISHING OR PUBLISHING & PRINTING
+2721,Printed matter and recorded media (22),PERIODICALS: PUBLISHING OR PUBLISHING & PRINTING
+2731,Printed matter and recorded media (22),BOOKS: PUBLISHING OR PUBLISHING & PRINTING
+2732,Printed matter and recorded media (22),BOOK PRINTING
+2741,Printed matter and recorded media (22),MISCELLANEOUS PUBLISHING
+2750,Printed matter and recorded media (22),COMMERCIAL PRINTING
+2761,Printed matter and recorded media (22),MANIFOLD BUSINESS FORMS
+2771,Printed matter and recorded media (22),GREETING CARDS
+2780,Printed matter and recorded media (22),"BLANKBOOKS, LOOSELEAF BINDERS & BOOKBINDG & RELATD WORK"
+2790,Printed matter and recorded media (22),SERVICE INDUSTRIES FOR THE PRINTING TRADE
+2800,Chemicals nec,CHEMICALS & ALLIED PRODUCTS
+2810,Chemicals nec,INDUSTRIAL INORGANIC CHEMICALS
+2820,"Plastics, basic","PLASTIC MATERIAL, SYNTH RESIN/RUBBER, CELLULOS (NO GLASS)"
+2821,"Plastics, basic","PLASTIC MATERIALS, SYNTH RESINS & NONVULCAN ELASTOMERS"
+2833,Chemicals nec,MEDICINAL CHEMICALS & BOTANICAL PRODUCTS
+2834,Chemicals nec,PHARMACEUTICAL PREPARATIONS
+2835,Chemicals nec,IN VITRO & IN VIVO DIAGNOSTIC SUBSTANCES
+2836,Chemicals nec,"BIOLOGICAL PRODUCTS, (NO DISGNOSTIC SUBSTANCES)"
+2840,Chemicals nec,"SOAP, DETERGENTS, CLEANG PREPARATIONS, PERFUMES, COSMETICS"
+2842,Chemicals nec,"SPECIALTY CLEANING, POLISHING AND SANITATION PREPARATIONS"
+2844,Chemicals nec,"PERFUMES, COSMETICS & OTHER TOILET PREPARATIONS"
+2851,Chemicals nec,"PAINTS, VARNISHES, LACQUERS, ENAMELS & ALLIED PRODS"
+2860,Chemicals nec,INDUSTRIAL ORGANIC CHEMICALS
+2870,N-fertiliser,AGRICULTURAL CHEMICALS
+2890,Chemicals nec,MISCELLANEOUS CHEMICAL PRODUCTS
+2891,Chemicals nec,ADHESIVES & SEALANTS
+2911,Non-specified Petroleum Products,PETROLEUM REFINING
+2950,Bitumen,ASPHALT PAVING & ROOFING MATERIALS
+2990,Non-specified Petroleum Products,MISCELLANEOUS PRODUCTS OF PETROLEUM & COAL
+3011,Rubber and plastic products (25),TIRES & INNER TUBES
+3021,Rubber and plastic products (25),RUBBER & PLASTICS FOOTWEAR
+3050,Rubber and plastic products (25),"GASKETS, PACKG & SEALG DEVICES & RUBBER & PLASTICS HOSE"
+3060,Rubber and plastic products (25),"FABRICATED RUBBER PRODUCTS, NEC"
+3080,Rubber and plastic products (25),MISCELLANEOUS PLASTICS PRODUCTS
+3081,Rubber and plastic products (25),UNSUPPORTED PLASTICS FILM & SHEET
+3086,Rubber and plastic products (25),PLASTICS FOAM PRODUCTS
+3089,Rubber and plastic products (25),"PLASTICS PRODUCTS, NEC"
+3100,Leather and leather products (19),LEATHER & LEATHER PRODUCTS
+3140,Leather and leather products (19),"FOOTWEAR, (NO RUBBER)"
+3211,Glass and glass products,FLAT GLASS
+3220,Glass and glass products,"GLASS & GLASSWARE, PRESSED OR BLOWN"
+3221,Glass and glass products,GLASS CONTAINERS
+3231,Glass and glass products,"GLASS PRODUCTS, MADE OF PURCHASED GLASS"
+3241,"Cement, lime and plaster","CEMENT, HYDRAULIC"
+3250,"Bricks, tiles and construction products, in baked clay",STRUCTURAL CLAY PRODUCTS
+3260,Ceramic goods,POTTERY & RELATED PRODUCTS
+3270,Other non-metallic mineral products,"CONCRETE, GYPSUM & PLASTER PRODUCTS"
+3272,Other non-metallic mineral products,"CONCRETE PRODUCTS, EXCEPT BLOCK & BRICK"
+3281,Stone,CUT STONE & STONE PRODUCTS
+3290,Other non-metallic mineral products,"ABRASIVE, ASBESTOS & MISC NONMETALLIC MINERAL PRODS"
+3310,Basic iron and steel and of ferro-alloys and first products thereof,"STEEL WORKS, BLAST FURNACES & ROLLING & FINISHING MILLS"
+3312,Basic iron and steel and of ferro-alloys and first products thereof,"STEEL WORKS, BLAST FURNACES & ROLLING MILLS (COKE OVENS)"
+3317,Basic iron and steel and of ferro-alloys and first products thereof,STEEL PIPE & TUBES
+3320,Foundry work services,IRON & STEEL FOUNDRIES
+3330,Other non-ferrous metal products,PRIMARY SMELTING & REFINING OF NONFERROUS METALS
+3334,Aluminium and aluminium products,PRIMARY PRODUCTION OF ALUMINUM
+3341,"Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals",SECONDARY SMELTING & REFINING OF NONFERROUS METALS
+3350,Other non-ferrous metal products,ROLLING DRAWING & EXTRUDING OF NONFERROUS METALS
+3357,Copper products,DRAWING & INSULATING OF NONFERROUS WIRE
+3360,Other non-ferrous metal products,NONFERROUS FOUNDRIES (CASTINGS)
+3390,Other non-ferrous metal products,MISCELLANEOUS PRIMARY METAL PRODUCTS
+3411,"Fabricated metal products, except machinery and equipment (28)",METAL CANS
+3412,"Fabricated metal products, except machinery and equipment (28)","METAL SHIPPING BARRELS, DRUMS, KEGS & PAILS"
+3420,"Fabricated metal products, except machinery and equipment (28)","CUTLERY, HANDTOOLS & GENERAL HARDWARE"
+3430,"Fabricated metal products, except machinery and equipment (28)","HEATING EQUIP, EXCEPT ELEC & WARM AIR; & PLUMBING FIXTURES"
+3433,"Fabricated metal products, except machinery and equipment (28)","HEATING EQUIPMENT, EXCEPT ELECTRIC & WARM AIR FURNACES"
+3440,"Fabricated metal products, except machinery and equipment (28)",FABRICATED STRUCTURAL METAL PRODUCTS
+3442,"Fabricated metal products, except machinery and equipment (28)","METAL DOORS, SASH, FRAMES, MOLDINGS & TRIM"
+3443,"Fabricated metal products, except machinery and equipment (28)",FABRICATED PLATE WORK (BOILER SHOPS)
+3444,"Fabricated metal products, except machinery and equipment (28)",SHEET METAL WORK
+3448,"Fabricated metal products, except machinery and equipment (28)",PREFABRICATED METAL BUILDINGS & COMPONENTS
+3451,"Fabricated metal products, except machinery and equipment (28)",SCREW MACHINE PRODUCTS
+3452,"Fabricated metal products, except machinery and equipment (28)","BOLTS, NUTS, SCREWS, RIVETS & WASHERS"
+3460,"Fabricated metal products, except machinery and equipment (28)",METAL FORGINGS & STAMPINGS
+3470,"Fabricated metal products, except machinery and equipment (28)","COATING, ENGRAVING & ALLIED SERVICES"
+3480,"Fabricated metal products, except machinery and equipment (28)","ORDNANCE & ACCESSORIES, (NO VEHICLES/GUIDED MISSILES)"
+3490,"Fabricated metal products, except machinery and equipment (28)",MISCELLANEOUS FABRICATED METAL PRODUCTS
+3510,Machinery and equipment n.e.c. (29),ENGINES & TURBINES
+3523,Machinery and equipment n.e.c. (29),FARM MACHINERY & EQUIPMENT
+3524,Machinery and equipment n.e.c. (29),LAWN & GARDEN TRACTORS & HOME LAWN & GARDENS EQUIP
+3530,Machinery and equipment n.e.c. (29),"CONSTRUCTION, MINING & MATERIALS HANDLING MACHINERY & EQUIP"
+3531,Machinery and equipment n.e.c. (29),CONSTRUCTION MACHINERY & EQUIP
+3532,Machinery and equipment n.e.c. (29),MINING MACHINERY & EQUIP (NO OIL & GAS FIELD MACH & EQUIP)
+3533,Machinery and equipment n.e.c. (29),OIL & GAS FIELD MACHINERY & EQUIPMENT
+3537,Machinery and equipment n.e.c. (29),"INDUSTRIAL TRUCKS, TRACTORS, TRAILORS & STACKERS"
+3540,Machinery and equipment n.e.c. (29),METALWORKG MACHINERY & EQUIPMENT
+3541,Machinery and equipment n.e.c. (29),"MACHINE TOOLS, METAL CUTTING TYPES"
+3550,Machinery and equipment n.e.c. (29),SPECIAL INDUSTRY MACHINERY (NO METALWORKING MACHINERY)
+3555,Machinery and equipment n.e.c. (29),PRINTING TRADES MACHINERY & EQUIPMENT
+3559,Machinery and equipment n.e.c. (29),"SPECIAL INDUSTRY MACHINERY, NEC"
+3560,Machinery and equipment n.e.c. (29),GENERAL INDUSTRIAL MACHINERY & EQUIPMENT
+3561,Machinery and equipment n.e.c. (29),PUMPS & PUMPING EQUIPMENT
+3562,Machinery and equipment n.e.c. (29),BALL & ROLLER BEARINGS
+3564,Machinery and equipment n.e.c. (29),INDUSTRIAL & COMMERCIAL FANS & BLOWERS & AIR PURIFING EQUIP
+3567,Machinery and equipment n.e.c. (29),INDUSTRIAL PROCESS FURNACES & OVENS
+3569,Machinery and equipment n.e.c. (29),"GENERAL INDUSTRIAL MACHINERY & EQUIPMENT, NEC"
+3570,Office machinery and computers (30),COMPUTER & OFFICE EQUIPMENT
+3571,Office machinery and computers (30),ELECTRONIC COMPUTERS
+3572,Office machinery and computers (30),COMPUTER STORAGE DEVICES
+3575,Office machinery and computers (30),COMPUTER TERMINALS
+3576,Office machinery and computers (30),COMPUTER COMMUNICATIONS EQUIPMENT
+3577,Office machinery and computers (30),"COMPUTER PERIPHERAL EQUIPMENT, NEC"
+3578,Office machinery and computers (30),CALCULATING & ACCOUNTING MACHINES (NO ELECTRONIC COMPUTERS)
+3579,Office machinery and computers (30),"OFFICE MACHINES, NEC"
+3580,Machinery and equipment n.e.c. (29),REFRIGERATION & SERVICE INDUSTRY MACHINERY
+3585,Machinery and equipment n.e.c. (29),AIR-COND & WARM AIR HEATG EQUIP & COMM & INDL REFRIG EQUIP
+3590,Machinery and equipment n.e.c. (29),MISC INDUSTRIAL & COMMERCIAL MACHINERY & EQUIPMENT
+3600,Electrical machinery and apparatus n.e.c. (31),ELECTRONIC & OTHER ELECTRICAL EQUIPMENT (NO COMPUTER EQUIP)
+3612,Electrical machinery and apparatus n.e.c. (31),"POWER, DISTRIBUTION & SPECIALTY TRANSFORMERS"
+3613,Electrical machinery and apparatus n.e.c. (31),SWITCHGEAR & SWITCHBOARD APPARATUS
+3620,Electrical machinery and apparatus n.e.c. (31),ELECTRICAL INDUSTRIAL APPARATUS
+3621,Electrical machinery and apparatus n.e.c. (31),MOTORS & GENERATORS
+3630,Electrical machinery and apparatus n.e.c. (31),HOUSEHOLD APPLIANCES
+3634,Electrical machinery and apparatus n.e.c. (31),ELECTRIC HOUSEWARES & FANS
+3640,Electrical machinery and apparatus n.e.c. (31),ELECTRIC LIGHTING & WIRING EQUIPMENT
+3651,"Radio, television and communication equipment and apparatus (32)",HOUSEHOLD AUDIO & VIDEO EQUIPMENT
+3652,"Radio, television and communication equipment and apparatus (32)",PHONOGRAPH RECORDS & PRERECORDED AUDIO TAPES & DISKS
+3661,"Radio, television and communication equipment and apparatus (32)",TELEPHONE & TELEGRAPH APPARATUS
+3663,"Radio, television and communication equipment and apparatus (32)",RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT
+3669,"Radio, television and communication equipment and apparatus (32)","COMMUNICATIONS EQUIPMENT, NEC"
+3670,"Radio, television and communication equipment and apparatus (32)",ELECTRONIC COMPONENTS & ACCESSORIES
+3672,"Radio, television and communication equipment and apparatus (32)",PRINTED CIRCUIT BOARDS
+3674,"Radio, television and communication equipment and apparatus (32)",SEMICONDUCTORS & RELATED DEVICES
+3677,Electrical machinery and apparatus n.e.c. (31),"ELECTRONIC COILS, TRANSFORMERS & OTHER INDUCTORS"
+3678,"Radio, television and communication equipment and apparatus (32)",ELECTRONIC CONNECTORS
+3679,"Radio, television and communication equipment and apparatus (32)","ELECTRONIC COMPONENTS, NEC"
+3690,Electrical machinery and apparatus n.e.c. (31),"MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT & SUPPLIES"
+3695,"Radio, television and communication equipment and apparatus (32)",MAGNETIC & OPTICAL RECORDING MEDIA
+3711,"Motor vehicles, trailers and semi-trailers (34)",MOTOR VEHICLES & PASSENGER CAR BODIES
+3713,"Motor vehicles, trailers and semi-trailers (34)",TRUCK & BUS BODIES
+3714,"Motor vehicles, trailers and semi-trailers (34)",MOTOR VEHICLE PARTS & ACCESSORIES
+3715,"Motor vehicles, trailers and semi-trailers (34)",TRUCK TRAILERS
+3716,"Motor vehicles, trailers and semi-trailers (34)",MOTOR HOMES
+3720,Other transport equipment (35),AIRCRAFT & PARTS
+3721,Other transport equipment (35),AIRCRAFT
+3724,Other transport equipment (35),AIRCRAFT ENGINES & ENGINE PARTS
+3728,Other transport equipment (35),"AIRCRAFT PARTS & AUXILIARY EQUIPMENT, NEC"
+3730,Other transport equipment (35),SHIP & BOAT BUILDING & REPAIRING
+3743,Other transport equipment (35),RAILROAD EQUIPMENT
+3751,Other transport equipment (35),"MOTORCYCLES, BICYCLES & PARTS"
+3760,Other transport equipment (35),GUIDED MISSILES & SPACE VEHICLES & PARTS
+3790,Other transport equipment (35),MISCELLANEOUS TRANSPORTATION EQUIPMENT
+3812,"Medical, precision and optical instruments, watches and clocks (33)","SEARCH, DETECTION, NAVAGATION, GUIDANCE, AERONAUTICAL SYS"
+3821,"Medical, precision and optical instruments, watches and clocks (33)",LABORATORY APPARATUS & FURNITURE
+3822,"Medical, precision and optical instruments, watches and clocks (33)",AUTO CONTROLS FOR REGULATING RESIDENTIAL & COMML ENVIRONMENTS
+3823,"Medical, precision and optical instruments, watches and clocks (33)","INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL"
+3824,"Medical, precision and optical instruments, watches and clocks (33)",TOTALIZING FLUID METERS & COUNTING DEVICES
+3825,"Medical, precision and optical instruments, watches and clocks (33)",INSTRUMENTS FOR MEAS & TESTING OF ELECTRICITY & ELEC SIGNALS
+3826,"Medical, precision and optical instruments, watches and clocks (33)",LABORATORY ANALYTICAL INSTRUMENTS
+3827,"Medical, precision and optical instruments, watches and clocks (33)",OPTICAL INSTRUMENTS & LENSES
+3829,"Medical, precision and optical instruments, watches and clocks (33)","MEASURING & CONTROLLING DEVICES, NEC"
+3841,"Medical, precision and optical instruments, watches and clocks (33)",SURGICAL & MEDICAL INSTRUMENTS & APPARATUS
+3842,"Medical, precision and optical instruments, watches and clocks (33)","ORTHOPEDIC, PROSTHETIC & SURGICAL APPLIANCES & SUPPLIES"
+3843,"Medical, precision and optical instruments, watches and clocks (33)",DENTAL EQUIPMENT & SUPPLIES
+3844,"Medical, precision and optical instruments, watches and clocks (33)",X-RAY APPARATUS & TUBES & RELATED IRRADIATION APPARATUS
+3845,"Medical, precision and optical instruments, watches and clocks (33)",ELECTROMEDICAL & ELECTROTHERAPEUTIC APPARATUS
+3851,"Medical, precision and optical instruments, watches and clocks (33)",OPHTHALMIC GOODS
+3861,"Medical, precision and optical instruments, watches and clocks (33)",PHOTOGRAPHIC EQUIPMENT & SUPPLIES
+3873,"Medical, precision and optical instruments, watches and clocks (33)","WATCHES, CLOCKS, CLOCKWORK OPERATED DEVICES/PARTS"
+3910,Furniture; other manufactured goods n.e.c. (36),"JEWELRY, SILVERWARE & PLATED WARE"
+3911,Precious metals,"JEWELRY, PRECIOUS METAL"
+3931,Furniture; other manufactured goods n.e.c. (36),MUSICAL INSTRUMENTS
+3942,Furniture; other manufactured goods n.e.c. (36),DOLLS & STUFFED TOYS
+3944,Furniture; other manufactured goods n.e.c. (36),"GAMES, TOYS & CHILDREN'S VEHICLES (NO DOLLS & BICYCLES)"
+3949,Furniture; other manufactured goods n.e.c. (36),"SPORTING & ATHLETIC GOODS, NEC"
+3950,Furniture; other manufactured goods n.e.c. (36),"PENS, PENCILS & OTHER ARTISTS' MATERIALS"
+3960,Furniture; other manufactured goods n.e.c. (36),COSTUME JEWELRY & NOVELTIES
+3990,Furniture; other manufactured goods n.e.c. (36),MISCELLANEOUS MANUFACTURING INDUSTRIES
+4011,Railway transportation services,"RAILROADS, LINE-HAUL OPERATING"
+4013,Railway transportation services,RAILROAD SWITCHING & TERMINAL ESTABLISHMENTS
+4100,Other land transportation services,LOCAL & SUBURBAN TRANSIT & INTERURBAN HWY PASSENGER TRANS
+4210,Other land transportation services,TRUCKING & COURIER SERVICES (NO AIR)
+4213,Other land transportation services,TRUCKING (NO LOCAL)
+4220,Supporting and auxiliary transport services; travel agency services (63),PUBLIC WAREHOUSING & STORAGE
+4231,Supporting and auxiliary transport services; travel agency services (63),TERMINAL MAINTENANCE FACILITIES FOR MOTOR FREIGHT TRANSPORT
+4400,Sea and coastal water transportation services,WATER TRANSPORTATION
+4412,Sea and coastal water transportation services,DEEP SEA FOREIGN TRANSPORTATION OF FREIGHT
+4512,Air transport services (62),"AIR TRANSPORTATION, SCHEDULED"
+4513,Air transport services (62),AIR COURIER SERVICES
+4522,Air transport services (62),"AIR TRANSPORTATION, NONSCHEDULED"
+4581,Supporting and auxiliary transport services; travel agency services (63),"AIRPORTS, FLYING FIELDS & AIRPORT TERMINAL SERVICES"
+4610,Transportation services via pipelines,PIPE LINES (NO NATURAL GAS)
+4700,Supporting and auxiliary transport services; travel agency services (63),TRANSPORTATION SERVICES
+4731,Supporting and auxiliary transport services; travel agency services (63),ARRANGEMENT OF TRANSPORTATION OF FREIGHT & CARGO
+4812,Post and telecommunication services (64),RADIOTELEPHONE COMMUNICATIONS
+4813,Post and telecommunication services (64),TELEPHONE COMMUNICATIONS (NO RADIOTELEPHONE)
+4822,Post and telecommunication services (64),TELEGRAPH & OTHER MESSAGE COMMUNICATIONS
+4832,Post and telecommunication services (64),RADIO BROADCASTING STATIONS
+4833,Post and telecommunication services (64),TELEVISION BROADCASTING STATIONS
+4841,Post and telecommunication services (64),CABLE & OTHER PAY TELEVISION SERVICES
+4899,Post and telecommunication services (64),"COMMUNICATIONS SERVICES, NEC"
+4900,Electricity nec,"ELECTRIC, GAS & SANITARY SERVICES"
+4911,Electricity nec,ELECTRIC SERVICES
+4922,Distribution services of gaseous fuels through mains,NATURAL GAS TRANSMISSION
+4923,Distribution services of gaseous fuels through mains,NATURAL GAS TRANSMISISON & DISTRIBUTION
+4924,Distribution services of gaseous fuels through mains,NATURAL GAS DISTRIBUTION
+4931,Distribution and trade services of electricity,ELECTRIC & OTHER SERVICES COMBINED
+4932,Distribution services of gaseous fuels through mains,GAS & OTHER SERVICES COMBINED
+4941,"Collected and purified water, distribution services of water (41)",WATER SUPPLY
+4950,Other waste for treatment: waste water treatment,SANITARY SERVICES
+4953,Secondary raw materials,REFUSE SYSTEMS
+4955,Oil/hazardous waste for treatment: incineration,HAZARDOUS WASTE MANAGEMENT
+4961,Steam and hot water supply services,STEAM & AIR-CONDITIONING SUPPLY
+4991,Electricity nec,COGENERATION SERVICES & SMALL POWER PRODUCERS
+5000,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",WHOLESALE-DURABLE GOODS
+5010,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",WHOLESALE-MOTOR VEHICLES & MOTOR VEHICLE PARTS & SUPPLIES
+5013,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",WHOLESALE-MOTOR VEHICLE SUPPLIES & NEW PARTS
+5020,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",WHOLESALE-FURNITURE & HOME FURNISHINGS
+5030,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",WHOLESALE-LUMBER & OTHER CONSTRUCTION MATERIALS
+5031,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)","WHOLESALE-LUMBER, PLYWOOD, MILLWORK & WOOD PANELS"
+5040,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",WHOLESALE-PROFESSIONAL & COMMERCIAL EQUIPMENT & SUPPLIES
+5045,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",WHOLESALE-COMPUTERS & PERIPHERAL EQUIPMENT & SOFTWARE
+5047,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)","WHOLESALE-MEDICAL, DENTAL & HOSPITAL EQUIPMENT & SUPPLIES"
+5050,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",WHOLESALE-METALS & MINERALS (NO PETROLEUM)
+5051,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",WHOLESALE-METALS SERVICE CENTERS & OFFICES
+5063,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)","WHOLESALE-ELECTRICAL APPARATUS & EQUIPMENT, WIRING SUPPLIES"
+5064,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)","WHOLESALE-ELECTRICAL APPLIANCES, TV & RADIO SETS"
+5065,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)","WHOLESALE-ELECTRONIC PARTS & EQUIPMENT, NEC"
+5070,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",WHOLESALE-HARDWARE & PLUMBING & HEATING EQUIPMENT & SUPPLIES
+5072,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",WHOLESALE-HARDWARE
+5080,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)","WHOLESALE-MACHINERY, EQUIPMENT & SUPPLIES"
+5082,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",WHOLESALE-CONSTRUCTION & MINING (NO PETRO) MACHINERY & EQUIP
+5084,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",WHOLESALE-INDUSTRIAL MACHINERY & EQUIPMENT
+5090,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",WHOLESALE-MISC DURABLE GOODS
+5094,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)","WHOLESALE-JEWELRY, WATCHES, PRECIOUS STONES & METALS"
+5099,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)","WHOLESALE-DURABLE GOODS, NEC"
+5110,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",WHOLESALE-PAPER & PAPER PRODUCTS
+5122,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)","WHOLESALE-DRUGS, PROPRIETARIES & DRUGGISTS' SUNDRIES"
+5130,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)","WHOLESALE-APPAREL, PIECE GOODS & NOTIONS"
+5140,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",WHOLESALE-GROCERIES & RELATED PRODUCTS
+5141,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)","WHOLESALE-GROCERIES, GENERAL LINE"
+5150,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",WHOLESALE-FARM PRODUCT RAW MATERIALS
+5160,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",WHOLESALE-CHEMICALS & ALLIED PRODUCTS
+5171,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",WHOLESALE-PETROLEUM BULK STATIONS & TERMINALS
+5172,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",WHOLESALE-PETROLEUM & PETROLEUM PRODUCTS (NO BULK STATIONS)
+5180,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)","WHOLESALE-BEER, WINE & DISTILLED ALCOHOLIC BEVERAGES"
+5190,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",WHOLESALE-MISCELLANEOUS NONDURABLE GOODS
+5200,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)","RETAIL-BUILDING MATERIALS, HARDWARE, GARDEN SUPPLY"
+5211,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RETAIL-LUMBER & OTHER BUILDING MATERIALS DEALERS
+5271,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RETAIL-MOBILE HOME DEALERS
+5311,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RETAIL-DEPARTMENT STORES
+5331,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RETAIL-VARIETY STORES
+5399,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RETAIL-MISC GENERAL MERCHANDISE STORES
+5400,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RETAIL-FOOD STORES
+5411,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RETAIL-GROCERY STORES
+5412,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RETAIL-CONVENIENCE STORES
+5500,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RETAIL-AUTO DEALERS & GASOLINE STATIONS
+5531,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RETAIL-AUTO & HOME SUPPLY STORES
+5600,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RETAIL-APPAREL & ACCESSORY STORES
+5621,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RETAIL-WOMEN'S CLOTHING STORES
+5651,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RETAIL-FAMILY CLOTHING STORES
+5661,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RETAIL-SHOE STORES
+5700,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)","RETAIL-HOME FURNITURE, FURNISHINGS & EQUIPMENT STORES"
+5712,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RETAIL-FURNITURE STORES
+5731,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)","RETAIL-RADIO, TV & CONSUMER ELECTRONICS STORES"
+5734,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RETAIL-COMPUTER & COMPUTER SOFTWARE STORES
+5735,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RETAIL-RECORD & PRERECORDED TAPE STORES
+5810,Hotel and restaurant services (55),RETAIL-EATING & DRINKING PLACES
+5812,Hotel and restaurant services (55),RETAIL-EATING PLACES
+5900,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RETAIL-MISCELLANEOUS RETAIL
+5912,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RETAIL-DRUG STORES AND PROPRIETARY STORES
+5940,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RETAIL-MISCELLANEOUS SHOPPING GOODS STORES
+5944,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RETAIL-JEWELRY STORES
+5945,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)","RETAIL-HOBBY, TOY & GAME SHOPS"
+5960,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RETAIL-NONSTORE RETAILERS
+5961,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",RETAIL-CATALOG & MAIL-ORDER HOUSES
+5990,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)","RETAIL-RETAIL STORES, NEC"
+6021,"Financial intermediation services, except insurance and pension funding services (65)",NATIONAL COMMERCIAL BANKS
+6022,"Financial intermediation services, except insurance and pension funding services (65)",STATE COMMERCIAL BANKS
+6029,"Financial intermediation services, except insurance and pension funding services (65)","COMMERCIAL BANKS, NEC"
+6035,"Financial intermediation services, except insurance and pension funding services (65)","SAVINGS INSTITUTION, FEDERALLY CHARTERED"
+6036,"Financial intermediation services, except insurance and pension funding services (65)","SAVINGS INSTITUTIONS, NOT FEDERALLY CHARTERED"
+6099,"Financial intermediation services, except insurance and pension funding services (65)","FUNCTIONS RELATED TO DEPOSITORY BANKING, NEC"
+6111,"Financial intermediation services, except insurance and pension funding services (65)",FEDERAL & FEDERALLY-SPONSORED CREDIT AGENCIES
+6141,"Financial intermediation services, except insurance and pension funding services (65)",PERSONAL CREDIT INSTITUTIONS
+6153,"Financial intermediation services, except insurance and pension funding services (65)",SHORT-TERM BUSINESS CREDIT INSTITUTIONS
+6159,"Financial intermediation services, except insurance and pension funding services (65)",MISCELLANEOUS BUSINESS CREDIT INSTITUTION
+6162,"Financial intermediation services, except insurance and pension funding services (65)",MORTGAGE BANKERS & LOAN CORRESPONDENTS
+6163,"Financial intermediation services, except insurance and pension funding services (65)",LOAN BROKERS
+6172,"Financial intermediation services, except insurance and pension funding services (65)",FINANCE LESSORS
+6189,"Financial intermediation services, except insurance and pension funding services (65)",ASSET-BACKED SECURITIES
+6199,"Financial intermediation services, except insurance and pension funding services (65)",FINANCE SERVICES
+6200,Services auxiliary to financial intermediation (67),"SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES"
+6211,Services auxiliary to financial intermediation (67),"SECURITY BROKERS, DEALERS & FLOTATION COMPANIES"
+6221,Services auxiliary to financial intermediation (67),COMMODITY CONTRACTS BROKERS & DEALERS
+6282,Services auxiliary to financial intermediation (67),INVESTMENT ADVICE
+6311,"Insurance and pension funding services, except compulsory social security services (66)",LIFE INSURANCE
+6321,"Insurance and pension funding services, except compulsory social security services (66)",ACCIDENT & HEALTH INSURANCE
+6324,"Insurance and pension funding services, except compulsory social security services (66)",HOSPITAL & MEDICAL SERVICE PLANS
+6331,"Insurance and pension funding services, except compulsory social security services (66)","FIRE, MARINE & CASUALTY INSURANCE"
+6351,"Insurance and pension funding services, except compulsory social security services (66)",SURETY INSURANCE
+6361,"Insurance and pension funding services, except compulsory social security services (66)",TITLE INSURANCE
+6399,"Insurance and pension funding services, except compulsory social security services (66)","INSURANCE CARRIERS, NEC"
+6411,"Insurance and pension funding services, except compulsory social security services (66)","INSURANCE AGENTS, BROKERS & SERVICE"
+6500,Real estate services (70),REAL ESTATE
+6510,Real estate services (70),REAL ESTATE OPERATORS (NO DEVELOPERS) & LESSORS
+6512,Real estate services (70),OPERATORS OF NONRESIDENTIAL BUILDINGS
+6513,Real estate services (70),OPERATORS OF APARTMENT BUILDINGS
+6519,Real estate services (70),"LESSORS OF REAL PROPERTY, NEC"
+6531,Real estate services (70),REAL ESTATE AGENTS & MANAGERS (FOR OTHERS)
+6532,Real estate services (70),REAL ESTATE DEALERS (FOR THEIR OWN ACCOUNT)
+6552,Real estate services (70),LAND SUBDIVIDERS & DEVELOPERS (NO CEMETERIES)
+6770,,BLANK CHECKS
+6792,Other business services (74),OIL ROYALTY TRADERS
+6794,Other business services (74),PATENT OWNERS & LESSORS
+6795,Other business services (74),MINERAL ROYALTY TRADERS
+6798,Real estate services (70),REAL ESTATE INVESTMENT TRUSTS
+6799,Services auxiliary to financial intermediation (67),"INVESTORS, NEC"
+7000,Hotel and restaurant services (55),"HOTELS, ROOMING HOUSES, CAMPS & OTHER LODGING PLACES"
+7011,Hotel and restaurant services (55),HOTELS & MOTELS
+7200,Other services (93),SERVICES-PERSONAL SERVICES
+7310,Other business services (74),SERVICES-ADVERTISING
+7311,Other business services (74),SERVICES-ADVERTISING AGENCIES
+7320,Other business services (74),"SERVICES-CONSUMER CREDIT REPORTING, COLLECTION AGENCIES"
+7330,Other business services (74),"SERVICES-MAILING, REPRODUCTION, COMMERCIAL ART & PHOTOGRAPHY"
+7331,Other business services (74),SERVICES-DIRECT MAIL ADVERTISING SERVICES
+7340,Other business services (74),SERVICES-TO DWELLINGS & OTHER BUILDINGS
+7350,Other business services (74),SERVICES-MISCELLANEOUS EQUIPMENT RENTAL & LEASING
+7359,Other business services (74),"SERVICES-EQUIPMENT RENTAL & LEASING, NEC"
+7361,Other business services (74),SERVICES-EMPLOYMENT AGENCIES
+7363,Other business services (74),SERVICES-HELP SUPPLY SERVICES
+7370,Computer and related services (72),"SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC."
+7371,Computer and related services (72),SERVICES-COMPUTER PROGRAMMING SERVICES
+7372,Computer and related services (72),SERVICES-PREPACKAGED SOFTWARE
+7373,Computer and related services (72),SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN
+7374,Computer and related services (72),SERVICES-COMPUTER PROCESSING & DATA PREPARATION
+7377,Computer and related services (72),SERVICES-COMPUTER RENTAL & LEASING
+7380,Other business services (74),SERVICES-MISCELLANEOUS BUSINESS SERVICES
+7381,Other business services (74),"SERVICES-DETECTIVE, GUARD & ARMORED CAR SERVICES"
+7384,Other business services (74),SERVICES-PHOTOFINISHING LABORATORIES
+7385,Other business services (74),SERVICES-TELEPHONE INTERCONNECT SYSTEMS
+7389,Other business services (74),"SERVICES-BUSINESS SERVICES, NEC"
+7500,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries","SERVICES-AUTOMOTIVE REPAIR, SERVICES & PARKING"
+7510,Renting services of machinery and equipment without operator and of personal and household goods (71),SERVICES-AUTO RENTAL & LEASING (NO DRIVERS)
+7600,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",SERVICES-MISCELLANEOUS REPAIR SERVICES
+7812,"Recreational, cultural and sporting services (92)",SERVICES-MOTION PICTURE & VIDEO TAPE PRODUCTION
+7819,"Recreational, cultural and sporting services (92)",SERVICES-ALLIED TO MOTION PICTURE PRODUCTION
+7822,"Recreational, cultural and sporting services (92)",SERVICES-MOTION PICTURE & VIDEO TAPE DISTRIBUTION
+7829,"Recreational, cultural and sporting services (92)",SERVICES-ALLIED TO MOTION PICTURE DISTRIBUTION
+7830,"Recreational, cultural and sporting services (92)",SERVICES-MOTION PICTURE THEATERS
+7841,"Recreational, cultural and sporting services (92)",SERVICES-VIDEO TAPE RENTAL
+7900,"Recreational, cultural and sporting services (92)",SERVICES-AMUSEMENT & RECREATION SERVICES
+7948,"Recreational, cultural and sporting services (92)","SERVICES-RACING, INCLUDING TRACK OPERATION"
+7990,"Recreational, cultural and sporting services (92)",SERVICES-MISCELLANEOUS AMUSEMENT & RECREATION
+7997,"Recreational, cultural and sporting services (92)",SERVICES-MEMBERSHIP SPORTS & RECREATION CLUBS
+8000,Health and social work services (85),SERVICES-HEALTH SERVICES
+8011,Health and social work services (85),SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE
+8050,Health and social work services (85),SERVICES-NURSING & PERSONAL CARE FACILITIES
+8051,Health and social work services (85),SERVICES-SKILLED NURSING CARE FACILITIES
+8060,Health and social work services (85),SERVICES-HOSPITALS
+8062,Health and social work services (85),"SERVICES-GENERAL MEDICAL & SURGICAL HOSPITALS, NEC"
+8071,Health and social work services (85),SERVICES-MEDICAL LABORATORIES
+8082,Health and social work services (85),SERVICES-HOME HEALTH CARE SERVICES
+8090,Health and social work services (85),"SERVICES-MISC HEALTH & ALLIED SERVICES, NEC"
+8093,Health and social work services (85),"SERVICES-SPECIALTY OUTPATIENT FACILITIES, NEC"
+8111,Other business services (74),SERVICES-LEGAL SERVICES
+8200,Education services (80),SERVICES-EDUCATIONAL SERVICES
+8300,Health and social work services (85),SERVICES-SOCIAL SERVICES
+8351,Health and social work services (85),SERVICES-CHILD DAY CARE SERVICES
+8600,Membership organisation services n.e.c. (91),SERVICES-MEMBERSHIP ORGANIZATIONS
+8700,Other business services (74),"SERVICES-ENGINEERING, ACCOUNTING, RESEARCH, MANAGEMENT"
+8711,Other business services (74),SERVICES-ENGINEERING SERVICES
+8731,Research and development services (73),SERVICES-COMMERCIAL PHYSICAL & BIOLOGICAL RESEARCH
+8734,Research and development services (73),SERVICES-TESTING LABORATORIES
+8741,Other business services (74),SERVICES-MANAGEMENT SERVICES
+8742,Other business services (74),SERVICES-MANAGEMENT CONSULTING SERVICES
+8744,Other business services (74),SERVICES-FACILITIES SUPPORT MANAGEMENT SERVICES
+8880,,AMERICAN DEPOSITARY RECEIPTS
+8888,Public administration and defence services; compulsory social security services (75),FOREIGN GOVERNMENTS
+8900,Other business services (74),"SERVICES-SERVICES, NEC"
+9721,Extra-territorial organizations and bodies,INTERNATIONAL AFFAIRS
+9995,,NON-OPERATING ESTABLISHMENTS

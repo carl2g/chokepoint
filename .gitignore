@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large file
+fund_analyzer/datasets/IOT_2024_pxp.zip

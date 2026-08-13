@@ -1,0 +1,9 @@
+{
+  "remote.autoForwardPortsSource": "hybrid",
+  "chat.mcp.gallery.enabled": true,
+  "terminal.integrated.enableMultiLinePasteWarning": "never",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true,
+  }
+}
