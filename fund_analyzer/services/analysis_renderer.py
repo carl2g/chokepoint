@@ -50,7 +50,7 @@ class DependenceViz:
         ax2.barh(self._trim(sk), sv, color=self.SECTOR_COLOR)
         ax2.set_title("Sector dependence")
         for ax in (ax1, ax2):
-            ax.set_xlabel("value per Million euros")
+            ax.set_xlabel("production cost in Million euros")
         fig.suptitle(self.company_name, fontsize=13, weight="bold")
         fig.tight_layout()
         return fig

@@ -15,7 +15,7 @@
 
 A small Django project for analyzing a company's sectoral dependencies using SEC and EXIOBASE data.
 
-The goal was to compute the full upstream sectoral dependencies of a company, then aggregate them to analyze portfolios.
+The goal was to compute the full (direct + indirect) upstream sectoral dependencies of a company, then aggregate them to analyze portfolios. Note that it's adding upstream costs, 
 
 The intended workflow:
 
@@ -60,5 +60,16 @@ python manage.py analyse_company 1045810 --output dependence.png
 ```
 
 The command accepts either a 10-digit CIK or a shorter numeric value, and generates a dependency chart for that company.
+
 Example of Nvidia analysis:
-![Dependency chart](dependence_simple.png)
+> **Reading the chart:** each bar is a *total* upstream requirement, 
+> not a share of a total. 
+>
+> Values overlap by construction — the 
+> semiconductor bar already contains the plastics used to make those 
+> semiconductors, which also appear in the plastics bar.
+>
+> **Do not sum the bars.** The sum exceeds the company's actual 
+> spending, often by a large factor. Compare bars against each other, 
+> never against the total.
+![Dependency chart](dependence_example.png)
